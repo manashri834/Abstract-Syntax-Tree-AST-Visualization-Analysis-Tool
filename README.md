@@ -1,6 +1,5 @@
 # Abstract Syntax Tree (AST) Visualization & Analysis Tool
-
-
+A Python-based static analysis utility that performs lexical and syntax analysis to visualize code hierarchy and quantify logical complexity using Graphviz.
 
 ## Overview
 This tool performs **Lexical and Syntax Analysis** to transform source code into a hierarchical tree structure. It is designed to assist in structural auditing and code complexity mapping.
