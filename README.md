@@ -10,7 +10,7 @@ This tool performs **Lexical and Syntax Analysis** to transform source code into
 - **Compiler Stage Simulation:** Demonstrates the first two phases of a compiler: Lexical Analysis and Parsing.
 
 ## Sample Output
-![AST Tree Output](link-to-your-screenshot-here.png)
+![AST Tree Visualization](ast_output.png)
 
 ## Tech Stack
 - **Language:** Python 3.x
